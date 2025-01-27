@@ -20,3 +20,6 @@ A Minecraft SMP for the ages. This repo contains the server files for our most r
 - Enable remote console (optional)
     - In server.properties set enable-rcon=true
     - Set rcon.password=[Secure Password]
+# Additions
+- Added [Voice Chat Mod](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/files/all?page=1&pageSize=20&version=1.20.1)
+
