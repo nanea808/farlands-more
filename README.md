@@ -10,7 +10,13 @@ A Minecraft SMP for the ages. This repo contains the server files for our most r
 - Each season will be about telling a story and working on goals that get increasing bigger. Everyone has a place, if you want to be a villain, be a villain. If you want to run for mayor, run for mayor. Tell a story, set goals related to that story (think like hermitcraft if you are familiar). As for goals they will start small, and increasingly get bigger the more time we dedicate to playing on the server. There will be events like traveling to the end, or something small like an arena. And at the end of every season we will have one major event to build up to the next season
 - Basic Minecraft Rules are basically don't meta game, and don't be a dick. Don't ruin the experience for others please
 
-# Requirements
+# Setup
 - Install required version of java using the script included in [server pack](https://www.curseforge.com/minecraft/modpacks/medieval-mc-mmc4/files/5950304).
     - Linux: install_java.sh
-    - Windows: install_java.ps1
+    - Windows: install_java.ps1 or install_java.
+- Start the server
+    - Linux: Run start.sh
+    - Windows: Run start.ps1
+- Enable remote console (optional)
+    - In server.properties set enable-rcon=true
+    - Set rcon.password=[Secure Password]
