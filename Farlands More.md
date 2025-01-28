@@ -9,8 +9,9 @@
 - After week 3 initiate the Aether event!
 # Elections
 - Democracy or something?
-- Two nations are established.
-- We doing this dodge ball style? Pick two captains and have them form teams?
+- Player's vote for ruler of the newly established capital.
+# A New Settlement Appears
+- Players race to a new location in hopes of being crowned it's ruler.
 # Phase Finale
 - The 2 gods will incite war between the newly established nations.
 - 1 week will be given to prepare for all out war.
