@@ -10,9 +10,9 @@ A Minecraft SMP for the ages. This repo contains the server files for our most r
 - Install Medieval MC from [curseforge](https://www.curseforge.com/minecraft/modpacks/medieval-mc-mmc4/files/5950246/additional-files])
 # Additions
 - Mods
-    - [Voice Chat Mod](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/files/5907371/changelog)
+    - [Voice Chat Mod](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/files/5907371/changelog) (required client side for voice chat to work)
 - Datapacks
-    - [Vanilla Tweaks](https://vanillatweaks.net/picker/datapacks/)
+    - [Vanilla Tweaks](https://vanillatweaks.net/picker/datapacks/) (optional client side)
         - afk display
         - custom nether portals
         - custom villager shops
