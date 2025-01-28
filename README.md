@@ -1,8 +1,5 @@
-# farlands-more
+# Farlands More
 A Minecraft SMP for the ages. This repo contains the server files for our most recent Minecraft SMP adventure.
-# Season 1 TODO's
-- [ ] Additional qol (quality of life) plugins, mods, and datapacks
-	- [Vanilla Tweaks](https://vanillatweaks.net/picker/datapacks/)
 # Rules
 - This server is not meant to be a one and done, please don't grind out everything in a day. We want this server to last awhile before we move onto the next season. We are here to have fun, roleplay, tell a story, and have goals outside "who can get end game gear first."
 - On the topic of roleplay, it's not required so don't feel obligated to! Some of us will be playing characters and being silly but not everyone has to.
@@ -12,7 +9,19 @@ A Minecraft SMP for the ages. This repo contains the server files for our most r
 - Install [Curseforge](https://www.curseforge.com/download/app) or and alternative launcher like [Prism](https://prismlauncher.org/)
 - Install Medieval MC from [curseforge](https://www.curseforge.com/minecraft/modpacks/medieval-mc-mmc4/files/5950246/additional-files])
 # Additions
-- Added [Voice Chat Mod](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/files/5907371/changelog)
+- Mods
+    - [Voice Chat Mod](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/files/5907371/changelog)
+- Datapacks
+    - [Vanilla Tweaks](https://vanillatweaks.net/picker/datapacks/)
+        - afk display
+        - custom nether portals
+	- custom villager shops
+	- multiplayer sleep
+	- name colors
+	- nether portal coords
+	- player head drops
+	- spectator night vision
+	- track statistics
 # Server Setup
 - Install required version of java using the script included in [server pack](https://www.curseforge.com/minecraft/modpacks/medieval-mc-mmc4/files/5950304)
     - Linux: install_java.sh
@@ -23,4 +32,3 @@ A Minecraft SMP for the ages. This repo contains the server files for our most r
 - Enable remote console (optional)
     - In server.properties set enable-rcon=true
     - Set rcon.password=[Secure Password]
-
