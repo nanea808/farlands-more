@@ -10,7 +10,7 @@ A Minecraft SMP for the ages. This repo contains the server files for our most r
 - Basic Minecraft Rules are basically don't meta game, and don't be a dick. Don't ruin the experience for others please
 # Modpack Setup
 - Install [Curseforge](https://www.curseforge.com/download/app) or and alternative launcher like [Prism](https://prismlauncher.org/)
-- Install Medieval MC from [curseforge](https://www.curseforge.com/minecraft/modpacks/medieval-mc-mmc4/files/5950246/additional-files]
+- Install Medieval MC from [curseforge](https://www.curseforge.com/minecraft/modpacks/medieval-mc-mmc4/files/5950246/additional-files])
 # Additions
 - Added [Voice Chat Mod](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/files/5907371/changelog)
 # Server Setup
