@@ -15,13 +15,13 @@ A Minecraft SMP for the ages. This repo contains the server files for our most r
     - [Vanilla Tweaks](https://vanillatweaks.net/picker/datapacks/)
         - afk display
         - custom nether portals
-	- custom villager shops
-	- multiplayer sleep
-	- name colors
-	- nether portal coords
-	- player head drops
-	- spectator night vision
-	- track statistics
+        - custom villager shops
+        - multiplayer sleep
+        - name colors
+        - nether portal coords
+        - player head drops
+        - spectator night vision
+        - track statistics
 # Server Setup
 - Install required version of java using the script included in [server pack](https://www.curseforge.com/minecraft/modpacks/medieval-mc-mmc4/files/5950304)
     - Linux: install_java.sh
