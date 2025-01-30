@@ -6,13 +6,17 @@ A Minecraft SMP for the ages. This repo contains the server files for our most r
 - Each season will be about telling a story and working on goals that get increasing bigger. Everyone has a place, if you want to be a villain, be a villain. If you want to run for mayor, run for mayor. Tell a story, set goals related to that story (think like hermitcraft if you are familiar). As for goals they will start small, and increasingly get bigger the more time we dedicate to playing on the server. There will be events like traveling to the end, or something small like an arena. And at the end of every season we will have one major event to build up to the next season.
 - Basic Minecraft Rules are basically don't meta game, and don't be a dick. Don't ruin the experience for others please.
 # Modpack Setup
-- Install [Curseforge](https://www.curseforge.com/download/app) or and alternative launcher like [Prism](https://prismlauncher.org/)
-- Install Medieval MC from [curseforge](https://www.curseforge.com/minecraft/modpacks/medieval-mc-mmc4/files/5950246/additional-files])
+- Install [Curseforge](https://www.curseforge.com/download/app) or and alternative launcher like [Prism](https://prismlauncher.org/).
+- Install Medieval MC from [curseforge](https://www.curseforge.com/minecraft/modpacks/medieval-mc-mmc4/files/5950246/additional-files]).
+    ![how-to-install-mmc](images/install-MMC-1.png)
+- This modpack recommends allocating 8000MB of memory/ram. Tutorial [here](https://www.bisecthosting.com/clients/index.php?rp=/knowledgebase/305/How-to-allocate-more-ram-in-the-CurseForge-launcher.html).
+- (Optional) Download additional mods from the list below. Tutorial [here](https://support.curseforge.com/en/support/solutions/articles/9000197148-customizing-modpacks).
 # Additions
 - Mods
     - [Voice Chat Mod](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/files/5907371/changelog) (required client side for voice chat to work)
+    - [Vivecraft](https://modrinth.com/mod/vivecraft/version/1.20.1-1.2.4-forge) (optional to see local VR junkie's full body tracking)
 - Datapacks
-    - [Vanilla Tweaks](https://vanillatweaks.net/picker/datapacks/) (optional client side)
+    - [Vanilla Tweaks](https://vanillatweaks.net/picker/datapacks/) (not necessary to download just FYI)
         - afk display
         - custom nether portals
         - custom villager shops
