@@ -12,11 +12,14 @@ A Minecraft SMP for the ages. This repo contains the server files for our most r
 - This modpack recommends allocating 8000MB of memory/ram. Tutorial [here](https://www.bisecthosting.com/clients/index.php?rp=/knowledgebase/305/How-to-allocate-more-ram-in-the-CurseForge-launcher.html).
 - (Optional) Download additional mods from the list below. Tutorial [here](https://support.curseforge.com/en/support/solutions/articles/9000197148-customizing-modpacks).
 # Additions
-- Mods
+- Mods (Client)
     - [Voice Chat Mod](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/files/5907371/changelog) (required client side for voice chat to work)
     - [Vivecraft](https://modrinth.com/mod/vivecraft/version/1.20.1-1.2.4-forge) (optional to see local VR junkie's full body tracking)
+- Mods (Server)
+    - [Access Denied](https://www.curseforge.com/minecraft/mc-mods/access-denied/files/5720926)
+    - [Vivecraft](https://modrinth.com/mod/vivecraft/version/1.20.1-1.2.4-forge)
 - Datapacks
-    - [Vanilla Tweaks](https://vanillatweaks.net/picker/datapacks/) (not necessary to download just FYI)
+    - [Vanilla Tweaks](https://vanillatweaks.net/picker/datapacks/) (Server Only)
         - afk display
         - custom nether portals
         - custom villager shops
@@ -36,3 +39,5 @@ A Minecraft SMP for the ages. This repo contains the server files for our most r
 - Enable remote console (optional)
     - In server.properties set enable-rcon=true
     - Set rcon.password=[Secure Password]
+- Install wrapper
+	- https://aur.archlinux.org/packages/mark2-git
