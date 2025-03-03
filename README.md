@@ -17,6 +17,7 @@ A Minecraft SMP for the ages. This repo contains the server files for our most r
     - [Vivecraft](https://modrinth.com/mod/vivecraft/version/1.20.1-1.2.4-forge) (optional to see local VR junkie's full body tracking)
 - Mods (Server Only)
     - [Access Denied](https://www.curseforge.com/minecraft/mc-mods/access-denied/files/5720926)
+    - [Shops](https://www.curseforge.com/minecraft/mc-mods/simple-shops/files/4716851)
 - Datapacks
     - [Vanilla Tweaks](https://vanillatweaks.net/picker/datapacks/) (Server Only)
         - afk display
@@ -38,3 +39,7 @@ A Minecraft SMP for the ages. This repo contains the server files for our most r
 - Enable remote console (optional)
     - In server.properties set enable-rcon=true
     - Set rcon.password=[Secure Password]
+# Discord Integration
+https://www.curseforge.com/minecraft/mc-mods/dcintegration
+https://www.curseforge.com/minecraft/mc-mods/chat-bridge
+https://www.curseforge.com/minecraft/mc-mods/simple-discord-link-bot-forge-fabric-spigot

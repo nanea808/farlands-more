@@ -1,0 +1,5 @@
+
+["General Settings"]
+	#Defines a list of dimensions that are disabled. If a dimension is not in this list, it will be enabled by default.
+	dimensionsDisabled = ["aether:the_aether", "minecraft:the_end", "twilightforest:twilight_forest"]
+

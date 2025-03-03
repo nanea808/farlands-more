@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "fd78624d02dc4214bc1e5ae45e44ac51"
+	name: "billdotd#fd78624d"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

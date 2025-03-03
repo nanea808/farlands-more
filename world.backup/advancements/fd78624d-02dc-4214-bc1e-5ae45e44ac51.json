@@ -1,0 +1,783 @@
+{
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_something": "2025-02-02 20:16:46 -0800"
+    },
+    "done": true
+  },
+  "vanillatweaks:spectator_night_vision": {
+    "criteria": {
+      "tick": "2025-02-02 20:08:13 -0800"
+    },
+    "done": true
+  },
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2025-02-02 20:08:13 -0800"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/echo_boat": {
+    "criteria": {
+      "in_water": "2025-02-02 20:19:14 -0800"
+    },
+    "done": true
+  },
+  "survive:recipes/main/cyan_washcloth": {
+    "criteria": {
+      "has_white_washcloth": "2025-02-02 20:08:13 -0800"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2025-02-02 20:19:14 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/transportation/skyroot_boat": {
+    "criteria": {
+      "in_water": "2025-02-02 20:19:14 -0800"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/bloom_boat": {
+    "criteria": {
+      "in_water": "2025-02-02 20:19:14 -0800"
+    },
+    "done": true
+  },
+  "survive:recipes/main/purple_washcloth": {
+    "criteria": {
+      "has_white_washcloth": "2025-02-02 20:08:13 -0800"
+    },
+    "done": true
+  },
+  "undergarden:undergarden/root": {
+    "criteria": {
+      "tick": "2025-02-02 20:08:13 -0800"
+    },
+    "done": true
+  },
+  "survive:recipes/main/green_washcloth": {
+    "criteria": {
+      "has_white_washcloth": "2025-02-02 20:08:13 -0800"
+    },
+    "done": true
+  },
+  "vanillatweaks:multiplayer_sleep": {
+    "criteria": {
+      "tick": "2025-02-02 20:08:13 -0800"
+    },
+    "done": true
+  },
+  "survive:recipes/main/lime_washcloth": {
+    "criteria": {
+      "has_white_washcloth": "2025-02-02 20:08:13 -0800"
+    },
+    "done": true
+  },
+  "undergarden:recipes/transportation/grongle_boat": {
+    "criteria": {
+      "in_water": "2025-02-02 20:19:14 -0800"
+    },
+    "done": true
+  },
+  "survive:recipes/main/gray_washcloth": {
+    "criteria": {
+      "has_white_washcloth": "2025-02-02 20:08:13 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-02-02 20:08:13 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-02-02 20:08:13 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-02-02 20:19:14 -0800"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_netherite": {
+    "criteria": {
+      "inv_changed-netherite": "2025-02-02 20:08:13 -0800"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_sheet": {
+    "criteria": {
+      "has_white_sheet": "2025-02-02 20:16:47 -0800"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2025-02-02 20:19:14 -0800"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_boat": {
+    "criteria": {
+      "in_water": "2025-02-02 20:19:14 -0800"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_chest": {
+    "criteria": {
+      "inv_changed-chest": "2025-02-02 20:08:13 -0800"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/assassin_necklace": {
+    "criteria": {
+      "has_bone": "2025-02-02 20:21:39 -0800"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2025-02-02 20:08:13 -0800"
+    },
+    "done": true
+  },
+  "survive:recipes/main/soap_mix": {
+    "criteria": {
+      "has_ingredients": "2025-02-02 20:08:13 -0800"
+    },
+    "done": true
+  },
+  "betterend:root": {
+    "criteria": {
+      "welcome": "2025-02-02 20:08:14 -0800"
+    },
+    "done": true
+  },
+  "vanillatweaks:afk_display": {
+    "criteria": {
+      "tick": "2025-02-02 20:08:13 -0800"
+    },
+    "done": true
+  },
+  "survive:recipes/main/brown_washcloth": {
+    "criteria": {
+      "has_white_washcloth": "2025-02-02 20:08:13 -0800"
+    },
+    "done": true
+  },
+  "survive:recipes/main/ice_cube": {
+    "criteria": {
+      "has_ice": "2025-02-02 20:08:13 -0800"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/pine_boat": {
+    "criteria": {
+      "in_water": "2025-02-02 20:19:14 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-02-02 20:19:14 -0800"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-02-02 20:08:13 -0800"
+    },
+    "done": true
+  },
+  "vanillatweaks:custom_villager_shops": {
+    "criteria": {
+      "tick": "2025-02-02 20:08:13 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/white_cape": {
+    "criteria": {
+      "has_white_wool": "2025-02-02 20:16:47 -0800"
+    },
+    "done": true
+  },
+  "survive:recipes/main/wool_jacket": {
+    "criteria": {
+      "has_wool": "2025-02-02 20:08:13 -0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_white": {
+    "criteria": {
+      "has_white_wool": "2025-02-02 20:16:47 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-02-02 20:19:14 -0800"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mining_boat": {
+    "criteria": {
+      "in_water": "2025-02-02 20:19:14 -0800"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_01": "2025-02-02 20:21:13 -0800"
+    },
+    "done": true
+  },
+  "survive:recipes/main/pink_washcloth": {
+    "criteria": {
+      "has_white_washcloth": "2025-02-02 20:08:13 -0800"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/food/mutton_dinner": {
+    "criteria": {
+      "has_mutton": "2025-02-02 20:16:47 -0800"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-02-02 20:19:14 -0800"
+    },
+    "done": true
+  },
+  "survive:recipes/main/wool_hat": {
+    "criteria": {
+      "has_wool": "2025-02-02 20:08:13 -0800"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2025-02-02 20:19:14 -0800"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/fieldsproot_boat": {
+    "criteria": {
+      "in_water": "2025-02-02 20:19:14 -0800"
+    },
+    "done": true
+  },
+  "survive:recipes/main/white_washcloth": {
+    "criteria": {
+      "has_string": "2025-02-02 20:08:13 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-02-02 20:21:39 -0800"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/maple_boat": {
+    "criteria": {
+      "in_water": "2025-02-02 20:19:14 -0800"
+    },
+    "done": true
+  },
+  "delightful:recipes/knives/bone_knife": {
+    "criteria": {
+      "has_bones": "2025-02-02 20:21:39 -0800"
+    },
+    "done": true
+  },
+  "eeeabsmobs:eeeabsmobs/root": {
+    "criteria": {
+      "requirement": "2025-02-02 20:08:13 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-02-02 20:19:14 -0800"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2025-02-02 20:08:13 -0800"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2025-02-02 20:19:14 -0800"
+    },
+    "done": true
+  },
+  "vanillatweaks:nether_portal_coords": {
+    "criteria": {
+      "tick": "2025-02-02 20:08:13 -0800"
+    },
+    "done": true
+  },
+  "survive:recipes/main/potash_solution": {
+    "criteria": {
+      "has_wood_ash": "2025-02-02 20:08:13 -0800"
+    },
+    "done": true
+  },
+  "ancient_aether:recipes/transportation/sakura_boat": {
+    "criteria": {
+      "in_water": "2025-02-02 20:19:14 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-02-02 20:19:14 -0800"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_boat": {
+    "criteria": {
+      "in_water": "2025-02-02 20:19:14 -0800"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2025-02-02 20:19:14 -0800"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/canopy_boat": {
+    "criteria": {
+      "in_water": "2025-02-02 20:19:14 -0800"
+    },
+    "done": true
+  },
+  "undergarden:recipes/transportation/smogstem_boat": {
+    "criteria": {
+      "in_water": "2025-02-02 20:19:14 -0800"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-02-02 20:21:39 -0800"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2025-02-02 20:19:14 -0800"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/empyreal_boat": {
+    "criteria": {
+      "in_water": "2025-02-02 20:19:14 -0800"
+    },
+    "done": true
+  },
+  "survive:recipes/main/yellow_washcloth": {
+    "criteria": {
+      "has_white_washcloth": "2025-02-02 20:08:13 -0800"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_dia_pearl": {
+    "criteria": {
+      "inv_changed-ender_pearl": "2025-02-02 20:08:13 -0800",
+      "inv_changed-diamond": "2025-02-02 20:08:13 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-02-02 20:16:47 -0800"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-02 20:16:47 -0800"
+    },
+    "done": true
+  },
+  "survive:recipes/main/canteen": {
+    "criteria": {
+      "has_leather": "2025-02-02 20:08:13 -0800"
+    },
+    "done": true
+  },
+  "ancient_aether:recipes/transportation/highsproot_boat": {
+    "criteria": {
+      "in_water": "2025-02-02 20:19:14 -0800"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/sorting_boat": {
+    "criteria": {
+      "in_water": "2025-02-02 20:19:14 -0800"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/glacia_boat": {
+    "criteria": {
+      "in_water": "2025-02-02 20:19:14 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-02-02 20:19:14 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_bed": {
+    "criteria": {
+      "has_wool": "2025-02-02 20:16:47 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-02-02 20:16:47 -0800"
+    },
+    "done": true
+  },
+  "survive:recipes/main/light_gray_washcloth": {
+    "criteria": {
+      "has_white_washcloth": "2025-02-02 20:08:13 -0800"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_glowstone": {
+    "criteria": {
+      "inv_changed-glowstone": "2025-02-02 20:08:13 -0800"
+    },
+    "done": true
+  },
+  "survive:recipes/main/soap_bottle": {
+    "criteria": {
+      "has_ingredients": "2025-02-02 20:08:13 -0800"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/umbran_boat": {
+    "criteria": {
+      "in_water": "2025-02-02 20:19:14 -0800"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-02-02 20:08:13 -0800"
+    },
+    "done": true
+  },
+  "vanillatweaks:custom_nether_portals": {
+    "criteria": {
+      "tick": "2025-02-02 20:08:13 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-02-02 20:19:14 -0800"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-02-02 20:08:13 -0800"
+    },
+    "done": true
+  },
+  "survive:recipes/main/wood_ash": {
+    "criteria": {
+      "has_charcoal": "2025-02-02 20:08:13 -0800"
+    },
+    "done": true
+  },
+  "survive:recipes/main/red_washcloth": {
+    "criteria": {
+      "has_white_washcloth": "2025-02-02 20:08:13 -0800"
+    },
+    "done": true
+  },
+  "survive:recipes/main/ice": {
+    "criteria": {
+      "has_cubes": "2025-02-02 20:08:13 -0800"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sheep": {
+    "criteria": {
+      "has_white_wool": "2025-02-02 20:16:47 -0800"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/bone_quiver": {
+    "criteria": {
+      "has_bone": "2025-02-02 20:21:39 -0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-02-02 20:16:46 -0800"
+    },
+    "done": true
+  },
+  "vanillatweaks:track_stats": {
+    "criteria": {
+      "tick": "2025-02-02 20:08:13 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-02-02 20:16:47 -0800"
+    },
+    "done": true
+  },
+  "survive:recipes/main/blue_washcloth": {
+    "criteria": {
+      "has_white_washcloth": "2025-02-02 20:08:13 -0800"
+    },
+    "done": true
+  },
+  "survive:recipes/main/orange_washcloth": {
+    "criteria": {
+      "has_white_washcloth": "2025-02-02 20:08:13 -0800"
+    },
+    "done": true
+  },
+  "survive:recipes/main/wool_boots": {
+    "criteria": {
+      "has_wool": "2025-02-02 20:08:13 -0800"
+    },
+    "done": true
+  },
+  "vanillatweaks:name_colors": {
+    "criteria": {
+      "tick": "2025-02-02 20:08:13 -0800"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/twilight_oak_boat": {
+    "criteria": {
+      "in_water": "2025-02-02 20:19:14 -0800"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/time_boat": {
+    "criteria": {
+      "in_water": "2025-02-02 20:19:14 -0800"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_meal": {
+    "criteria": {
+      "has_item": "2025-02-02 20:16:47 -0800"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/crystal_boat": {
+    "criteria": {
+      "in_water": "2025-02-02 20:19:14 -0800"
+    },
+    "done": true
+  },
+  "survive:recipes/main/magenta_washcloth": {
+    "criteria": {
+      "has_white_washcloth": "2025-02-02 20:08:13 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-02-02 20:16:47 -0800"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/blightwillow_boat": {
+    "criteria": {
+      "in_water": "2025-02-02 20:19:14 -0800"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/transformation_boat": {
+    "criteria": {
+      "in_water": "2025-02-02 20:19:14 -0800"
+    },
+    "done": true
+  },
+  "survive:recipes/main/black_washcloth": {
+    "criteria": {
+      "has_white_washcloth": "2025-02-02 20:08:13 -0800"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-02-02 20:16:51 -0800"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/misc/blockconstructiontape": {
+    "criteria": {
+      "has_wool": "2025-02-02 20:16:47 -0800"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_cushion": {
+    "criteria": {
+      "has_white_cushion": "2025-02-02 20:16:47 -0800"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/white_sleeping_bag": {
+    "criteria": {
+      "has_white_wool": "2025-02-02 20:16:47 -0800"
+    },
+    "done": true
+  },
+  "survive:recipes/main/wool_pants": {
+    "criteria": {
+      "has_wool": "2025-02-02 20:08:13 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-02-02 20:19:14 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-02-02 20:16:47 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-02-02 20:19:14 -0800"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2025-02-02 20:08:13 -0800"
+    },
+    "done": true
+  },
+  "undergarden:recipes/transportation/wigglewood_boat": {
+    "criteria": {
+      "in_water": "2025-02-02 20:19:14 -0800"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/cloudcap_boat": {
+    "criteria": {
+      "in_water": "2025-02-02 20:19:14 -0800"
+    },
+    "done": true
+  },
+  "vanillatweaks:player_head_drops": {
+    "criteria": {
+      "tick": "2025-02-02 20:08:13 -0800"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/robe": {
+    "criteria": {
+      "has_item": "2025-02-02 20:16:47 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-02-02 20:16:47 -0800"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2025-02-02 20:19:14 -0800"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/dark_boat": {
+    "criteria": {
+      "in_water": "2025-02-02 20:19:14 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-02-02 20:16:47 -0800"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-02-02 20:08:13 -0800"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wolf": {
+    "criteria": {
+      "has_bone": "2025-02-02 20:21:39 -0800"
+    },
+    "done": true
+  },
+  "survive:recipes/main/light_blue_washcloth": {
+    "criteria": {
+      "has_white_washcloth": "2025-02-02 20:08:13 -0800"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/jellyshroom_boat": {
+    "criteria": {
+      "in_water": "2025-02-02 20:19:14 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-02-02 20:08:13 -0800"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/bone": {
+    "criteria": {
+      "has_item": "2025-02-02 20:21:39 -0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:taiga": "2025-02-02 20:08:14 -0800",
+      "minecraft:river": "2025-02-02 20:19:56 -0800",
+      "minecraft:stony_shore": "2025-02-02 20:20:17 -0800",
+      "minecraft:forest": "2025-02-02 20:17:33 -0800",
+      "minecraft:meadow": "2025-02-02 20:18:32 -0800",
+      "minecraft:plains": "2025-02-02 20:20:11 -0800"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}
