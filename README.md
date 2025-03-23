@@ -44,3 +44,5 @@ A Minecraft SMP for the ages. This repo contains the server files for our most r
 - Install wrapper
 	- https://aur.archlinux.org/packages/mark2-git
 	- Changing to AMP but having trouble installing Docker.
+# AMP Help
+- https://discourse.cubecoders.com/t/how-to-import-an-existing-minecraft-server-into-amp/1822
