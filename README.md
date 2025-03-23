@@ -15,10 +15,9 @@ A Minecraft SMP for the ages. This repo contains the server files for our most r
 - Mods (Client)
     - [Voice Chat Mod](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/files/5907371/changelog) (required client side for voice chat to work)
     - [Vivecraft](https://modrinth.com/mod/vivecraft/version/1.20.1-1.2.4-forge) (optional to see local VR junkie's full body tracking)
-    - [Shops](https://www.curseforge.com/minecraft/mc-mods/simple-shops/files/4716851)
 - Mods (Server)
+    - [Voice Chat Mod](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/files/5907371/changelog) (required client side for voice chat to work)
     - [Access Denied](https://www.curseforge.com/minecraft/mc-mods/access-denied/files/5720926)
-    - [Shops](https://www.curseforge.com/minecraft/mc-mods/simple-shops/files/4716851)
     - [Vivecraft](https://modrinth.com/mod/vivecraft/version/1.20.1-1.2.4-forge)
 - Datapacks
     - [Vanilla Tweaks](https://vanillatweaks.net/picker/datapacks/) (Server Only)
@@ -42,7 +41,6 @@ A Minecraft SMP for the ages. This repo contains the server files for our most r
     - In server.properties set enable-rcon=true
     - Set rcon.password=[Secure Password]
 - Install wrapper
-	- https://aur.archlinux.org/packages/mark2-git
-	- Changing to AMP but having trouble installing Docker.
+    - [AMP Install](https://cubecoders.com/AMP/Install)
 # AMP Help
 - https://discourse.cubecoders.com/t/how-to-import-an-existing-minecraft-server-into-amp/1822
