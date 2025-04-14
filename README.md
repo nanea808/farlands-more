@@ -19,6 +19,11 @@ A Minecraft SMP for the ages. This repo contains the server files for our most r
     - [Voice Chat Mod](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/files/5907371/changelog) (required client side for voice chat to work)
     - [Access Denied](https://www.curseforge.com/minecraft/mc-mods/access-denied/files/5720926)
     - [Vivecraft](https://modrinth.com/mod/vivecraft/version/1.20.1-1.2.4-forge)
+    - [Canary](https://www.curseforge.com/minecraft/mc-mods/canary/download/5089991)
+    - [FerriteCore](https://modrinth.com/mod/ferrite-core?version=1.20.1&loader=forge)
+    - [ModernFix](https://modrinth.com/mod/modernfix?version=1.20.1&loader=forge)
+    - [Saturn](https://www.curseforge.com/minecraft/mc-mods/canary/download/5089991)
+    - [Startlight](https://www.curseforge.com/minecraft/mc-mods/starlight-forge/download/4631193)
 - Datapacks
     - [Vanilla Tweaks](https://vanillatweaks.net/picker/datapacks/) (Server Only)
         - afk display
