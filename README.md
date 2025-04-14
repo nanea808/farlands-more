@@ -23,7 +23,7 @@ A Minecraft SMP for the ages. This repo contains the server files for our most r
     - [FerriteCore](https://modrinth.com/mod/ferrite-core?version=1.20.1&loader=forge)
     - [ModernFix](https://modrinth.com/mod/modernfix?version=1.20.1&loader=forge)
     - [Saturn](https://www.curseforge.com/minecraft/mc-mods/canary/download/5089991)
-    - [Startlight](https://www.curseforge.com/minecraft/mc-mods/starlight-forge/download/4631193)
+    - [Startlight](https://www.curseforge.com/minecraft/mc-mods/starlight-forge/download/4631193) (This one is an invasive engine rewrite and may cause issues with mods in the modpack, check compatibility before installing!)
 - Datapacks
     - [Vanilla Tweaks](https://vanillatweaks.net/picker/datapacks/) (Server Only)
         - afk display
